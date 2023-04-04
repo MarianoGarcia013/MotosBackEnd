@@ -1,0 +1,12 @@
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\bin\Debug\net6.0\MotosBackEnd.deps.json
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\bin\Debug\net6.0\MotosBackEnd.dll
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\bin\Debug\net6.0\MotosBackEnd.pdb
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.dll
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\refint\MotosBackEnd.dll
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\MotosBackEnd.pdb
+C:\Users\maria\OneDrive\Documentos\UTN\CV\Proyectos\MotosBackEnd\obj\Debug\net6.0\ref\MotosBackEnd.dll
